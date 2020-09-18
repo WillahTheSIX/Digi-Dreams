@@ -1,0 +1,25 @@
+body {
+  padding-top: 3.5rem;
+}
+.display-3{
+  color: blueviolet;
+}
+#cont{
+  padding-bottom: 40%;
+  padding-top: 0%;
+  background:url(photo/Picture1.png) center no-repeat;
+  background-size: 100%;
+  
+}
+#BtnA{
+
+}
+#Btn1{
+  float: left;
+}
+.h3{
+  font-family: 'Lobster', cursive;
+}
+#div1,#div2,#div3{
+  display: inline;
+}
