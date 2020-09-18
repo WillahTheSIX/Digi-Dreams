@@ -7,7 +7,7 @@ body {
 #cont{
   padding-bottom: 40%;
   padding-top: 0%;
-  background:url(Picture1.png) center no-repeat;
+  background:url(https://cdn.jsdelivr.net/gh/blueimp/Bootstrap-Image-Gallery@3.4.2/img/Picture1.png) center no-repeat;
   background-size: 100%;
   
 }
